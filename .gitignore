@@ -4,6 +4,11 @@
 **__pycache__
 **venv
 **drafts
-**config.py
 **.cache
 **sqlite
+**.idea
+**.vscode
+**.DS_Store
+**.mypy_cache/
+**.pytest_cache/
+**.ipynb_checkpoints/
